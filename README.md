@@ -9,14 +9,10 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 
-[![website](./img/twitter-light.svg)](https://twitter.com/ertugrulsarii#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/ertugrulsarii#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/ertuğrul-sarı-93a4ba224/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/ertuğrul-sarı-93a4ba224/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![Instagram](./img/instagram-light.svg)](https://instagram.com/ertugrulsarioglu#gh-light-mode-only)
-[![Instagram](./img/instagram-dark.svg)](https://instagram.com/ertugrulsarioglu#gh-dark-mode-only)
+<p align="left">
+<a href="https://twitter.com/ertugrulsarii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ertugrulsarii" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ertuğrul-sarı-93a4ba224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ertugrulsarioglu" height="30" width="40" /></a>
+<a href="https://instagram.com/ertugrulsarioglu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ertugrulsarioglu" height="30" width="40" /></a>
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ertugrulsarioglu&show_icons=true&theme=radical)
