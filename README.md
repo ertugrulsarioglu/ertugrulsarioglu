@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter and Kotlin
 - 📫 How to reach me: sariertugrull@gmail.com
 
 ### Connect with me:
