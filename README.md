@@ -13,5 +13,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ertugrulsarioglu&show_icons=true&locale=en&layout=compact" alt="ertugrulsarioglu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ertugrulsarioglu&show_icons=true&locale=en" alt="ertugrulsarioglu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ertugrulsarioglu&" alt="ertugrulsarioglu" /></p>
