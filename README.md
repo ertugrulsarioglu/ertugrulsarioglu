@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/ertugrulsarioglu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ertugrulsarioglu" height="30" width="40" /></a> 
  
  -----
+
+<img align="left" "https://github-readme-stats.vercel.app/api/top-langs?username=ertugrulsarioglu&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
  
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ertugrulsarioglu&show_icons=true&theme=radical)
